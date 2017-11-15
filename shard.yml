@@ -1,0 +1,9 @@
+name: uths_crystal
+version: 0.1.0
+
+authors:
+  - Corey Leveen <mntj11@gmail.com>
+
+crystal: 0.23.1
+
+license: MIT
